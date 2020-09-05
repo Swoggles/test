@@ -35,3 +35,5 @@ int get_nth_bit(int value, int n) {
     int bit = shifted_value & 1;
     return bit;
 }
+
+// Test Comment
